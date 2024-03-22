@@ -22,6 +22,7 @@ public class AssertionsPratice {
 		System.out.println("Step 4");
 		System.out.println("Step 5");
 		System.out.println("kabali");
+		System.out.println("kabali 2");
 			
 	}
 	
